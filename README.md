@@ -2,8 +2,7 @@
 Diagnostic
 
 <html>
-<header>
-<title> Personal Information </title>
+<header><title> Personal Information </title>
 </header>
 
 <body>
