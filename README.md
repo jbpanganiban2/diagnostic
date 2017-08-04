@@ -2,8 +2,8 @@
 Diagnostic
 
 <html>
-<header><title> Personal Information </title>
-</header>
+<head><title> Personal Information </title>
+</head>
 
 <body>
 Name: Joshua B. Panganiban</br>
