@@ -1,6 +1,12 @@
 # diagnostic
 Diagnostic
 
+<html>
+<header>
+<title> Personal Information </title>
+</header>
+
+<body>
 Name: Joshua B. Panganiban</br>
 Nickname: Joshua</br>
 Student Number: 2015-05341 </br>
@@ -10,3 +16,6 @@ Email Address: jbpanganiban2@up.edu.ph </br>
 Contact Number: 09209636827</br>
 Person to contact in case of emergency: Myrna Panganiban</br>
 Contact Number: 09177914298</br>
+</body>
+
+</html>
