@@ -1,27 +1,15 @@
 # diagnostic
 Diagnostic
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Personal Information</title>
-</head>
-<body>
-<p> 
-Name: Fermin Roberto G. Lapitan 
-Nickname: Koy
-Student Number: XXXX-40281 
-Provincial Address: 
-College Address: 
-Email Address: fglapitan@up.edu.ph 
-Contact Number: 
-Person to contact in case of emergency: 
-Contact Number:
-
-</p>
-
-</body>
+Name: Joshua B. Panganiban
+Nickname: Joshua
+Student Number: 2015-05341
+Provincial Address: 7B Narra st., Violago Homes III, Pasong Tamo, Quezon City
+College Address: Tribelli Dorm, Catalan Compound, UP Los Banos
+Email Address: jbpanganiban2@up.edu.ph 
+Contact Number: 09209636827
+Person to contact in case of emergency: Myrna B. Panganiban 
+Contact Number: 09177914298
 
 
-</html>
 
